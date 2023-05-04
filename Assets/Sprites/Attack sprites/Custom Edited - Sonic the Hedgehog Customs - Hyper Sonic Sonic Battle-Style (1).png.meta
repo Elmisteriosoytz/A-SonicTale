@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: e60183c0c88da034fab302cc07f8c732
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 780
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5b32ddbee552479ffe075d842cfe4
+      internalID: 562133228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 782
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b968a2e98ccb3b4bb02d3b40f7dd540
+      internalID: -687646180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 784
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b79c594763b9489e35e2b8dac26e0
+      internalID: -1719631302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 786
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb80964a91922349b2baec1533ed278
+      internalID: -1515139895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 784
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b67cbb0af73d84d92ff0e170576291
+      internalID: 631344341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 782
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ab68b320738942bebef5e9f0acb2b
+      internalID: 1646632821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 735
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19427460d98079428226c5cb1baa596
+      internalID: -1081138397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 735
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9271bc227292c4fb71b4c5400002c5
+      internalID: 1529194329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 740
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf74fe30496e2174cb15f088fd23c329
+      internalID: -2079210712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 741
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59035ea9cd5c44fb9247b8fb350938
+      internalID: -663606173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 742
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c2a01429a794498e2d4260ef148d1
+      internalID: -817532467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 743
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e52b3a87a9f248a819375bcd4cab7
+      internalID: 1734361840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 742
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9a209c8ad00745b4f2de949505f44
+      internalID: -1573707242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 741
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beeddd0269a83a4c9f5845d06d6dbab
+      internalID: 1565001321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 740
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3a453ab51e5a42a06a8294e9e9f19
+      internalID: -1635238270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 739
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96083754c9fcca84daa705c448c1f01c
+      internalID: 1213429564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 737
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864dc16f46625b94dae4c4d8231be079
+      internalID: -1384173329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 735
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8ae57a58ab79b46bbf604b565d82b4
+      internalID: 1886243818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 652
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc21d16d3b7a0345b33b73be53f5ecf
+      internalID: 900382645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 652
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c0116466b1194da5d31cc2c8ababa
+      internalID: 1930178101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 652
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b48e60ddfdb8458fab7699e17beb9
+      internalID: 349570421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 653
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc56e51465a8a4d9526630b66d8b6f
+      internalID: -234484548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 652
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd81908bfcefca4ea7b989a63163926
+      internalID: 2016988945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 652
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403154c305d1a24e8a819c990a5a805
+      internalID: 239212488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 653
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11ea24230b5a54cadb77b9544fec51
+      internalID: -2035692127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 653
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950c3bdfa08b4249b177b03667c5e1e
+      internalID: -820951947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash 9
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 654
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9706468f670e4bb63cf670764ac66
+      internalID: 811663444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 660
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdb62b2334a97f4aa9c7f1fc848dcaf
+      internalID: 1038089613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 665
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135f1683a92d32d41b0c3fa0a10df50c
+      internalID: -1985326952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 603
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31e0943209a36468df988c073f8aa5
+      internalID: -2114783699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e4974e19f51e47a634a5ac02b0fed
+      internalID: -381142483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 606
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d0a142b92204747972d8da6cf07500
+      internalID: 415760561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 606
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b003659882894189c52cca9844da3
+      internalID: 83105081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 603
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9b5336f8639a4e924ecdb303a2b3c
+      internalID: 1328958231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 601
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25aef9d9fadd5489038f00a1c89b5d
+      internalID: 1867277477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 600
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec83459addf360f49bbd5d57278eace5
+      internalID: -974863636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 602
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d00981efccae1498b6b93445918056
+      internalID: 607795114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 606
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05279ad5927d444aa6b295b457c367
+      internalID: -551137516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 606
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a608dfd827121441ad3092abc0e7994
+      internalID: -567131695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 606
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07856da74f45e0443bc6009c96157a46
+      internalID: 491333618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 606
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e1e15505f51a408c3f9c73e376b78
+      internalID: 673180842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 601
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dababf11a72067148a9a228f73043e1c
+      internalID: -1843371772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 603
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9004cbe49941634ebec56dd4e28aae0
+      internalID: -576800081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 606
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86c80997e750d42b89691e7a8170c2
+      internalID: 2011237496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 600
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d5c05c579d6840820c156ef77fae9
+      internalID: 1286005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 414
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393d194b8fcefc40a0a44b6249f3a17
+      internalID: 1937958016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 402
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d212487f183d4aa2790f1e000b23a
+      internalID: 716242677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 403
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b383a4a3ca5a3aa46a513715a9e161b4
+      internalID: 1533742663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 402
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60beac6681dc73049b21c2243f55d407
+      internalID: -1521586232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 401
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d413e8732b804987ac57a1364470e
+      internalID: -751022876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 403
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdd3163d60c4f40ae7c1405b8282a3
+      internalID: 1331561426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 400
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292160b56d077641960a7fb8c9d8781
+      internalID: 325818736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 431
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9505a203668654382de1c0a1b7df88
+      internalID: -1749676582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 435
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3096e63d9c32c40b7450fb87946161
+      internalID: 1485991344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 433
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ac09d469510b4291615c189dbe16c
+      internalID: 1814885123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 436
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bb5c298d2ff248a78e1d1059840c8
+      internalID: 1223133055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 431
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c6735535613841baa02c4c81696b4
+      internalID: -652232093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 424
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25617bb3426c9c459c30ca4bf8d3d06
+      internalID: 305981486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 418
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0584c13697d63e4fa47cd4e7c226647
+      internalID: 1455750020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 423
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef91d87cffad804e9520f9e16267e7e
+      internalID: 222899757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 358
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d02827f5e03b4fb9aec0deaf6611b
+      internalID: -1867813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 362
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680f2c055937914d82475bd56d61b77
+      internalID: 1881877562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb77ef300bedc349a83485d21792b96
+      internalID: 1762002502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5221015ad4b31e4a8e27734da273280
+      internalID: -239497822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 362
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbeac93cd4eb474d848fbfdced13695
+      internalID: 162075067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089aab6ff529ecc4d8da4862e373a718
+      internalID: 1520496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2fef3b8e05a384cafd0bf73d4848d9
+      internalID: -1198903622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e179420a8df640a2931d33d73b5a5
+      internalID: 1904817010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 358
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531225137ae546b4c80a87b531605eb2
+      internalID: -572470535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 359
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce71354a9a0874fb0ad8a26476464b
+      internalID: 2143560045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 360
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58345cd1b95506c428506b26afae9283
+      internalID: 905855146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 351
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcd196bff4901744add25f966a0b8d1
+      internalID: 1368321508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 179
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51ff4d6e688c24bbd6d132a0d4b048
+      internalID: -2030845338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 179
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec8c09ddd1c2b479b4743758c1df86
+      internalID: -951223143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 179
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827af7ca61b4a5149a209e2f0e5525a9
+      internalID: -1365856509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 179
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b436e2a878bdb4a9435b8749943c01
+      internalID: -1617971800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_0: 562133228
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_1: -687646180
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_10: -817532467
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_11: 1734361840
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_12: -1573707242
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_13: 1565001321
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_14: -1635238270
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_15: 1213429564
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_16: -1384173329
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_17: 1886243818
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_2: -1719631302
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_27: -1546668939
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_29: -1985326952
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_3: -1515139895
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_30: -2114783699
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_31: -381142483
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_32: 415760561
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_33: 83105081
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_34: 1328958231
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_35: 1867277477
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_36: -974863636
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_37: 607795114
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_38: -551137516
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_39: -567131695
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_4: 631344341
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_40: 491333618
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_41: 673180842
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_42: -1843371772
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_43: -576800081
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_44: 2011237496
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_45: 1286005281
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_46: 1937958016
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_47: 716242677
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_48: 1533742663
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_49: -1521586232
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_5: 1646632821
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_50: -751022876
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_51: 1331561426
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_52: 325818736
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_53: -1749676582
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_54: 1485991344
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_55: 1814885123
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_56: 1223133055
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_57: -652232093
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_58: 305981486
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_59: 1455750020
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_6: -1081138397
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_60: 222899757
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_61: -1867813341
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_62: 1881877562
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_63: 1762002502
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_64: -239497822
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_65: 162075067
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_66: 1520496632
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_67: -1198903622
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_68: 1904817010
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_69: -572470535
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_7: 1529194329
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_70: 2143560045
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_71: 905855146
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_72: 1368321508
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_73: -2030845338
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_74: -951223143
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_75: -1365856509
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_76: -1617971800
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_8: -2079210712
+      Custom Edited - Sonic the Hedgehog Customs - Hyper Sonic Sonic Battle-Style (1)_9: -663606173
+      Dash: 1038089613
+      Dash 1: 900382645
+      Dash 2: 1930178101
+      Dash 3: 349570421
+      Dash 4: -234484548
+      Dash 5: 2016988945
+      Dash 6: 239212488
+      Dash 7: -2035692127
+      Dash 8: -820951947
+      Dash 9: 811663444
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
