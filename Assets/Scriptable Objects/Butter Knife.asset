@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56bdf3a1d7a95ff4aab1a691b5f84d27, type: 3}
+  m_Name: Butter Knife
+  m_EditorClassIdentifier: 
+  Name: Butter Knife
+  Damage: 1
+  DamageMultiplier: 0.5
+  WeaponSprite: {fileID: 0}
+  AttackSound: {fileID: 8300000, guid: 53197dd348a47794eb40e51c0a88b0d8, type: 3}
+  WeaponAttack: {fileID: 9123930625054087960, guid: 9a663081fd72c364b8d8599b8acbdac8, type: 3}

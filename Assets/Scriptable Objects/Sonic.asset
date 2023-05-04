@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dac3253089f166c4e892cd96aeed7e57, type: 3}
+  m_Name: Sonic
+  m_EditorClassIdentifier: 
+  Name: Sonic
+  Hp: 5000
+  Defense: 0
+  EXP: 100000
+  Rings: 200
+  EnemyVisual1: {fileID: -1482430378, guid: 577f86e1299a80b4fa68193f5a3ee337, type: 3}
+  EnemyVisual2: {fileID: -399678717, guid: 577f86e1299a80b4fa68193f5a3ee337, type: 3}
+  EnemiesAttacks:
+  - {fileID: 2811295575522340044, guid: 025081b311dd6b94e91c5d032c6aa41b, type: 3}
+  - {fileID: 3164877346258889992, guid: 57c4c30fdad48a5478499123812435f4, type: 3}
+  - {fileID: 8294186278244977696, guid: ba2062b0053471440a4bd2befae33458, type: 3}
+  - {fileID: 8679143771848276632, guid: bfbff3d6ba704bc40b54053db8af465a, type: 3}
+  - {fileID: 2625033214607103525, guid: 45d57e9db6b6bc643bd52ab034335fbb, type: 3}
+  - {fileID: 8722062136139983166, guid: 45858d5c48f683a45875c7132acbbe3f, type: 3}
+  - {fileID: 7409243501169540314, guid: f325b9431ebf1824c9798c910bbaf072, type: 3}
+  - {fileID: 3164877346258889992, guid: f767cce7a66a77e49abce71e4d61c5c0, type: 3}
+  - {fileID: 1914646179023252455, guid: 23054b9ff79a742499c31b8f92cb56be, type: 3}
+  StartPositions:
+  - {x: 5.4966607, y: -3.5, z: 0.29450643}
+  - {x: 4.201772, y: -3.5, z: -0.067093894}
+  - {x: 0, y: 0, z: 0}
+  - {x: 5.4966607, y: -3.5, z: 0.29450643}
+  - {x: 0, y: -3.5, z: 0}
+  - {x: 5.4966607, y: -3.5, z: 0.29450643}
+  - {x: 5.4966607, y: -3.5, z: 0.29450643}
+  - {x: 4.201772, y: -0.51853997, z: -0.067093894}
+  - {x: 4.201772, y: -0.51853997, z: -0.067093894}

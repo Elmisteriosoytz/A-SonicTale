@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dac3253089f166c4e892cd96aeed7e57, type: 3}
+  m_Name: Super Sonic
+  m_EditorClassIdentifier: 
+  Name: Super Sonic
+  Hp: 1000000
+  Defense: 0
+  EnemyVisual1: {fileID: -1074526460, guid: cc1245f0679e48447899c3978c3f3e9f, type: 3}
+  EnemyVisual2: {fileID: -1028942651, guid: cc1245f0679e48447899c3978c3f3e9f, type: 3}
+  EnemiesAttacks:
+  - {fileID: 901378491858665262, guid: 931a1a11dca147e45bfdc50501976c03, type: 3}
+  - {fileID: 8461336631044356470, guid: 020fb48c8631cb349a6ad50ed1a29118, type: 3}
+  StartPositions:
+  - {x: -1.008771, y: -1.78, z: 28}
+  - {x: -3.2869053, y: 0.1330577, z: 29.201422}
